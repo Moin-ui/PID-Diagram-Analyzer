@@ -1,0 +1,28 @@
+path: /content/drive/MyDrive/PID_Analyzer
+train: images/train
+val: images/val
+test: images/test
+nc: 22
+names:
+  - flanged_ball_valve
+  - flanged_check_valve
+  - flanged_gate_valve
+  - flanged_globe_valve
+  - open_spectacle_blind
+  - closed_spectacle_blind
+  - removable_spool
+  - ball_valve
+  - check_valve
+  - y_strainer
+  - centrifugal_pump
+  - vertical_flash_drum
+  - globe_valve
+  - pressure_vacuum_relief_valve
+  - reducer_expander
+  - flanged_pressure_safety_valve
+  - flanged_pneumatic_diaphragm_operated_valve
+  - pneumatic_diaphragm_operated_valve
+  - pressure_safety_valve
+  - gate_valve
+  - blowdown_shutdown_valve
+  - flanged_blowdown_shutdown_valve
